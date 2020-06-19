@@ -1,0 +1,13 @@
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\testApp.exe
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\testApp.deps.json
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\testApp.runtimeconfig.json
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\testApp.runtimeconfig.dev.json
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\testApp.dll
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\testApp.pdb
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\obj\Release\net5.0\testApp.csprojAssemblyReference.cache
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\obj\Release\net5.0\testApp.AssemblyInfoInputs.cache
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\obj\Release\net5.0\testApp.AssemblyInfo.cs
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\obj\Release\net5.0\testApp.csproj.CoreCompileInputs.cache
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\obj\Release\net5.0\testApp.dll
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\obj\Release\net5.0\testApp.pdb
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\obj\Release\net5.0\testApp.genruntimeconfig.cache

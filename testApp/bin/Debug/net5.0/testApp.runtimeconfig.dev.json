@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Fidelis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Fidelis\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\publish\testApp.exe
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\publish\testApp.dll
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\publish\testApp.deps.json
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\publish\testApp.runtimeconfig.json
+C:\Users\Fidelis\Google Drive\- CODE\C#\.net test 1\testApp\bin\Release\net5.0\publish\testApp.pdb
